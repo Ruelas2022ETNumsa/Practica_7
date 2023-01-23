@@ -31,3 +31,22 @@ $$\gamma = \lim_{n\to\infty} \bigg[ \sum_{i=1}^{n} \dfrac{1}{i} - \text{ ln }(n)
 Realizar un programa para obtener esta constante con 6 decimales de precisión,
 se puede usar la librería math.h. Debe mostrar el diagrama de flujo en PSeInt,
 el código realizado en Dev-C++ y una captura de la ejecución del programa.
+
+
+---
+---
+> Sea el diagrama de flujo para el programa principal
+> 
+>![P7-E1-Dprincipal.png](https://i.postimg.cc/0QT7qwk4/P7-E1-Dprincipal.png)
+
+
+
+
+>![P7-E1-Dentero.png](https://i.postimg.cc/vBg5jzs9/P7-E1-Dentero.png)
+
+
+
+
+
+
+
