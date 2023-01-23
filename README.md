@@ -1,5 +1,5 @@
-# Practica_7
-
+# Practica # 7
+## INSTRUCCIONES REPETITIVAS
 ---
 1. Realizar un programa para calcular el número combinatorio
 $$\dbinom{n}{k} = \dfrac{n!}{k!(n-k)!}$$
