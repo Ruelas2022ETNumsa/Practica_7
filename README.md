@@ -1,10 +1,27 @@
 # Practica # 7
-## $$\text{INSTRUCCIONES REPETITIVAS}$$
+
+<h2 align="center"> INSTRUCCIONES REPETITIVAS </h2> <br>
+
+
+### Tabla del contenido
+
+#### Ejercicio 1
+- [Ejercicio_1](#Enunciado)
+-
+
+#### Ejercicio 2
+>- [Ejercicio_1](#Ejercicio_1)
+>-
+
+
+#### Ejercicio 3
+>- [Ejercicio_1](#Ejercicio_1)
+>-
+
 
 ---
-
----
-
+#### Ejercicio 1
+##### Enunciado
 1. Realizar un programa para calcular el número combinatorio
 $$\dbinom{n}{k} = \dfrac{n!}{k!(n-k)!}$$
 
@@ -126,9 +143,13 @@ y una captura de la ejecución del programa.
 
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
-<p aling="center">
- <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c" target="_blank"><img src="https://i.postimg.cc/6QdCLptx/mixkit-hands-of-a-programmer-working-on-his-computer-41640-Adobe-Creative-Cloud-Express.gif" width="300"/></a>
+
+
+
+<p align="center">
+  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
 </p>
+
 
 
 #### Ejecucion
@@ -228,9 +249,12 @@ en Dev-C++ y una captura de la ejecución del programa.
 
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
-<p aling="center">
- <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c" target="_blank"><img src="hhttps://i.postimg.cc/6QdCLptx/mixkit-hands-of-a-programmer-working-on-his-computer-41640-Adobe-Creative-Cloud-Express.gif" width="300"/></a>
+
+
+<p align="center">
+  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E2_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
 </p>
+
 
 
 #### Ejecucion
@@ -238,7 +262,7 @@ Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), 
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=mEf3Uf5XDF8" target="_blank"><img src="https://i.postimg.cc/gc8hRJcz/progmb.gif" width="300"/></a>
+   <a href="https://www.youtube.com/watch?v=mEf3Uf5XDF8" target="_blank"><img src="https://i.postimg.cc/gc8hRJcz/progmb.gif" width="300"/></a>
 </p>
 
 
@@ -315,9 +339,12 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
-<p aling="center">
- <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c" target="_blank"><img src="https://i.postimg.cc/6QdCLptx/mixkit-hands-of-a-programmer-working-on-his-computer-41640-Adobe-Creative-Cloud-Express.gif" width="300"/></a>
+
+<p align="center">
+  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E3_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
 </p>
+
+
 
 
 #### Ejecucion
