@@ -126,7 +126,7 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 > ${\color{TealBlue}\mbox{Flujograma  (Programa principal)}}$
 > - En la 1ra parte se aclara lo que el programa desea realizar.
 > - Se inicializan las variables de "Suma" y "Gamma_calc" en cero , por otro lado la variable "n" toma el valor de 10 y la variavle "Gamma_const" toma el valor de 0.5772156649.
-> - Se ingresa a un ciclo for(){}, ${\color{Orange}\mbox{·}}$  **el cual fue alterado para sumar en 1 a la variable de la condicional de finalizacion esta funcion for terminara si y solo si el valor del error calculado es igual a 0 logrando asi que se obtenga una precision de 6 decimales.** ${\color{Orange}\mbox{·}}$
+> - Se ingresa a un ciclo for(){}, ***el cual fue alterado para sumar en 1 a la variable de la condicional de finalizacion esta funcion for terminara si y solo si el valor del error calculado es igual a 0 logrando asi que se obtenga una precision de 6 decimales.***
 > - Dentro del ciclo se realizan las tareas necesaria para calcular el valor de Gamma.
 > - Finalmente el programa muestra la cantidad de veces que se ejecuto el ciclo for, para luego mostrar el resultado calculado junto con el valor de la constante.
 ><p align="center">
