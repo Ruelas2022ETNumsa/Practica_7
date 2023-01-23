@@ -122,7 +122,7 @@ y una captura de la ejecución del programa.
 >}
 >```
 
-Enlace al porgrama (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
+Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
 
 ---
 
@@ -210,7 +210,7 @@ en Dev-C++ y una captura de la ejecución del programa.
 >}
 >```
 
-Enlace al porgrama (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c)
+Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c)
 
 
 ---
@@ -282,4 +282,4 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 >}
 >```
 
-Enlace al porgrama (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c)
+Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c)
