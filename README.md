@@ -124,6 +124,16 @@ y una captura de la ejecución del programa.
 
 Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
 
+#### Ejecucion
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/watch?v=NUVR5CmU9FU">
+</iframe>
+</div>
+</p>
+
 ---
 
 2. Realizar un programa imprimir los números impares menores o iguales a n
@@ -213,6 +223,25 @@ en Dev-C++ y una captura de la ejecución del programa.
 Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c)
 
 
+
+#### Ejecucion
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/watch?v=mEf3Uf5XDF8">
+</iframe>
+</div>
+</p>
+
+
+
+
+
+
+
+
+
 ---
 
 
@@ -283,3 +312,16 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 >```
 
 Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<<< ](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c)
+
+
+#### Ejecucion
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/watch?v=8dTeFo0M7Sc">
+</iframe>
+</div>
+</p>
+
+
