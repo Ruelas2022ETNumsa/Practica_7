@@ -71,6 +71,7 @@ en Dev-C++ y una captura de la ejecución del programa.
 
 
 > ${\color{TealBlue}\mbox{Flujograma  (Programa principal)}}$
+> 
 > - En la 1ra parte se aclara lo que el programa desea realizar, ademas de pedir los datos necesarios.
 > - Para el analisis del dato ingresado se tiene al subprograma "N_Entero", que validara solo los valores enteros y distintos de 0.
 > - Luego se ingresa a la condicional, if(){}else{} para continuar con el programa en caso de haber ingresado datos correctos, para el caso de datos erroneos se mostrara un mensaje de error y terminara el programa.
@@ -83,7 +84,8 @@ en Dev-C++ y una captura de la ejecución del programa.
 ></p>
 
 
-> ${\color{TealBlue}\mbox{Flujograma  (Subprograma N_entero)}}$
+> ${\color{TealBlue}\mbox{Flujograma  (Subprograma N entero)}}$
+> 
 > - Ingresa el valor guardado en una variable de tipo flotante, para luego dentro la variable "var_aux" de tipo entero se guardada prviamente siendo esta multiplicado por el valor de 1000.
 > - Dentro la variable "Resto", se guarda el resto de "var_aux" entre 1000.
 > - La condicional if(){}{}, determina si el valor es un entero o tiene decimales; Sea el caso del entero ete devolvera el valor a la funcion principal, sea el otro caso se retornara un valor de "0".
@@ -114,13 +116,10 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 
 > ${\color{TealBlue}\mbox{Flujograma  (Programa principal)}}$
 > - En la 1ra parte se aclara lo que el programa desea realizar.
-> - Se inicializan las variables de "Suma" y "Gamma_calc" en cero , por otro lado la variable "n" toma el valor de 10.
-> - Para el analisis del dato ingresado se tiene al subprograma "N_Entero", que validara solo los valores enteros y distintos de 0.
-> - Luego se ingresa a la condicional, if(){}else{} para continuar con el programa en caso de haber ingresado datos correctos, para el caso de datos erroneos se mostrara un mensaje de error y terminara el programa.
-> - Cuando el usuario ingresa un dato correcto, este ingresara dentro otra condicional if(){}else{} para determinar si el nro es positivo o negativo; Cualquiera sea el caso, se iniciaran las variables que determinaran el inicio, fin y una condicion final para la escritura(muestra en la pantalla).
-> - Finalmente se inicia el ciclo for(){}, que con las variables del paso anterior formara la serie pedira, como tambien la tarea para calcular la suma requerida.
-> - Por ultimo se muestra la suma calculada y se termina el programa.
-> 
+> - Se inicializan las variables de "Suma" y "Gamma_calc" en cero , por otro lado la variable "n" toma el valor de 10 y la variavle "Gamma_const" toma el valor de 0.5772156649.
+> - Se ingresa a un ciclo for(){}, ${\color{Orange}\mbox{el cual fue alterado para sumar en 1 a la variable de la condicional de finalizacion esta funcion for terminara si y solo si el valor del error calculado es igual a 0 logrando asi que se obtenga una precision de 6 decimales.}}$
+> - Dentro del ciclo se realizan las tareas necesaria para calcular el valor de Gamma.
+> - Finalmente el programa muestra la cantidad de veces que se ejecuto el ciclo for, para luego mostrar el resultado calculado junto con el valor de la constante.
 ><p align="center">
 >  <img src="https://i.postimg.cc/9fcGwsz1/P7-E3-D.png">
 ></p>
