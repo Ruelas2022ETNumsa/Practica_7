@@ -197,7 +197,7 @@ en Dev-C++ y una captura de la ejecución del programa.
 > - Por ultimo se muestra la suma calculada y se termina el programa.
 
 <p align="center">
-  <img  width="700" height="1200" src="https://i.postimg.cc/Z5Qnz8Hx/P7-E2-Dprincipal.png">
+  <img  width="700" height="1200" src="https://i.postimg.cc/vH7dNXVV/P7-E2-Dp.png">
 </p>
 
 
