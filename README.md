@@ -67,8 +67,9 @@ en Dev-C++ y una captura de la ejecución del programa.
 
 
 > ${\color{TealBlue}\mbox{Flujograma  (Porgrama principal)}}$
+> - 
 ><p align="center">
->  <img  src="https://i.postimg.cc/Z5Qnz8Hx/P7-E2-Dprincipal.png">
+>  <img  width="700" height="1200" src="https://i.postimg.cc/Z5Qnz8Hx/P7-E2-Dprincipal.png">
 ></p>
 
 
