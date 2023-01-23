@@ -45,18 +45,18 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 >- Antes de guardar los datos ingresados, estos seran evaluados por el subprograma (N_enteros), el cual solo aceptara nros enteros.
 >- La condicional if{}else{}, si fuera el caso de operar la tarea de "else" entonces el programa mostrata un texto aclarando que se ingresaron datos erroneos y terminara cerrando.
 >- La condicional if{}else{}, cuando el usuario ingresa valores validos el programa realizara las tareas necesarias para resolver el problema planteado.
+><p align="center">
+>  <img  src="https://i.postimg.cc/0QT7qwk4/P7-E1-Dprincipal.png">
+></p>
 
-
-
->![P7-E1-Dprincipal.png](https://i.postimg.cc/0QT7qwk4/P7-E1-Dprincipal.png)
 
 > ${\color{TealBlue}\mbox{Flujograma  (Enunciado)}}$
 > - Muestra lo que el programa esta tratando de hacer.
 > - ${\color{Orange}\mbox{Aclara que datos seran aceptados por el programa.}}$
 > - Pide al usuario los valores que se necesitan.
-
->![P7-E1-Denunciado.png](https://i.postimg.cc/cJ5QXzV0/P7-E1-Denunciado.png)
-
+><p align="center">
+>  <img  src="https://i.postimg.cc/cJ5QXzV0/P7-E1-Denunciado.png">
+></p>
 
 
 > ${\color{TealBlue}\mbox{Flujograma  (Numeros entero)}}$
@@ -64,15 +64,17 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 > - Al ingresar el numero, este es de tipo flotante y debera ser convertido a un de tipo entero.
 > - Al nuevo nro de tipo entero ya se le puede calcular su resto entre 1000.
 > - Finalmente el resto es evaluado, si cumple la condicion enviar el respectivo numero para continuar con el programa y si no cumpliera se retornara un valor igual a 0.
-
->![P7-E1-Dentero.png](https://i.postimg.cc/vBg5jzs9/P7-E1-Dentero.png)
+><p align="center">
+>  <img  src="https://i.postimg.cc/vBg5jzs9/P7-E1-Dentero.png">
+></p>
 
 
 > ${\color{TealBlue}\mbox{Flujograma  (Factorial)}}$
 > - Realiza las operaciones necesarias para resolver un factorial.
 > - Mediante una condicional if{}else{} se realiza la tarea de entregar el factorial  de 0 o el factorial de un nro entero positivo.
-
->![P7-E1-Dfactorial.png](https://i.postimg.cc/g00Vyptg/P7-E1-Dfactorial.png)
+><p align="center">
+>  <img  src="https://i.postimg.cc/g00Vyptg/P7-E1-Dfactorial.png">
+></p>
 
 
 
