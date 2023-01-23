@@ -1,5 +1,8 @@
 # Practica # 7
 ## $$\text{INSTRUCCIONES REPETITIVAS}$$
+---
+
+
 
 ---
 
@@ -126,13 +129,8 @@ Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<
 
 #### Ejecucion
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/watch?v=NUVR5CmU9FU">
-</iframe>
-</div>
-</p>
+[![P1](https://i.postimg.cc/gc8hRJcz/progmb.gif)](https://www.youtube.com/watch?v=NUVR5CmU9FU)
+
 
 ---
 
@@ -226,18 +224,7 @@ Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<
 
 #### Ejecucion
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/watch?v=mEf3Uf5XDF8">
-</iframe>
-</div>
-</p>
-
-
-
-
-
+[![P2](https://i.postimg.cc/gc8hRJcz/progmb.gif)](https://www.youtube.com/watch?v=mEf3Uf5XDF8)
 
 
 
@@ -316,12 +303,9 @@ Enlace al programa (crtl+clic = abrir otra ventana) : [ >>>>> * ***Here*** * <<<
 
 #### Ejecucion
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/watch?v=8dTeFo0M7Sc">
-</iframe>
-</div>
-</p>
+
+[![leyenda](https://i.postimg.cc/gc8hRJcz/progmb.gif)](https://www.youtube.com/watch?v=8dTeFo0M7Sc)
+
+
 
 
