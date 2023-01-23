@@ -58,6 +58,11 @@ y una captura de la ejecución del programa.
 >  <img  src="https://i.postimg.cc/g00Vyptg/P7-E1-Dfun ciclo for(){}actorial.png">
 ></p>
 
+#### Codificacion en C
+
+[Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
+
+
 ---
 
 2. Realizar un programa imprimir los números impares menores o iguales a n
@@ -94,6 +99,10 @@ en Dev-C++ y una captura de la ejecución del programa.
 >  <img  src="https://i.postimg.cc/VkvvhGqN/P7-E2-Dentero.png">
 ></p>
 
+#### Codificacion en C
+
+[Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c)
+
 
 ---
 
@@ -117,12 +126,16 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 > ${\color{TealBlue}\mbox{Flujograma  (Programa principal)}}$
 > - En la 1ra parte se aclara lo que el programa desea realizar.
 > - Se inicializan las variables de "Suma" y "Gamma_calc" en cero , por otro lado la variable "n" toma el valor de 10 y la variavle "Gamma_const" toma el valor de 0.5772156649.
-> - Se ingresa a un ciclo for(){}, ${\color{Orange}\mbox{el cual fue alterado para sumar en 1 a la variable de la condicional de finalizacion esta funcion for terminara si y solo si el valor del error calculado es igual a 0 logrando asi que se obtenga una precision de 6 decimales.}}$
+> - Se ingresa a un ciclo for(){}, ${\color{Orange}\mbox{·}}$  **el cual fue alterado para sumar en 1 a la variable de la condicional de finalizacion esta funcion for terminara si y solo si el valor del error calculado es igual a 0 logrando asi que se obtenga una precision de 6 decimales.** ${\color{Orange}\mbox{·}}$
 > - Dentro del ciclo se realizan las tareas necesaria para calcular el valor de Gamma.
 > - Finalmente el programa muestra la cantidad de veces que se ejecuto el ciclo for, para luego mostrar el resultado calculado junto con el valor de la constante.
 ><p align="center">
 >  <img src="https://i.postimg.cc/9fcGwsz1/P7-E3-D.png">
 ></p>
+>
+#### Codificacion en C
+
+[Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c)
 
 
 
