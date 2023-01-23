@@ -264,7 +264,7 @@ en Dev-C++ y una captura de la ejecución del programa.
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
 <p align="center">
-  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E2_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
+  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
 </p>
 
 #### Ejecucion_2
@@ -352,7 +352,7 @@ Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), 
 
 
 <p align="center">
-  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E3_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
+  <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c" target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/></a>
 </p>
 
 
