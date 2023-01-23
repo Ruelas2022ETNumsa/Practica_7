@@ -3,6 +3,10 @@
 
 ---
 
+
+
+
+
 1. Realizar un programa para calcular el número combinatorio
 $$\dbinom{n}{k} = \dfrac{n!}{k!(n-k)!}$$
 
@@ -60,8 +64,69 @@ y una captura de la ejecución del programa.
 
 #### Codificacion en C
 
-[Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
+>${\color{TealBlue}\mbox{Funcion principal}}$
+>
+>```C
+>main(){
+>	// Declaracion de variables.
+>	float num_x = 0;
+>	int Total, Tomados, dif, Comb;
+>	// Enuciado
+>	Enunciado();
+>	// Peticion y registro de datos.
+>	printf("\n\n\t    n = ");scanf("%f",&num_x);
+>	Total = N_entero(num_x);
+>	num_x = 0;
+>	printf("\n\t    k = ");scanf("%f",&num_x);
+>	Tomados = N_entero(num_x);
+>	// Condicional para continuar
+>	if(Total>0 && Tomados>=0 && Total>Tomados){
+>		// Calculos necesarios
+>		dif = Total - Tomados;
+>		Comb = Fact(Total)/( Fact(Tomados)*Fact(dif) );
+>		// Muestra de resultados.
+>		printf("\n\t El combinatorio de %d tomados de %d es :\n", Total, Tomados);
+>		printf("\n\t             C_%d,%d = %d\n", Total, Tomados, Comb);
+>	}else{
+>		printf("\n\t El valor invalido.");
+>		printf("\n\t Lea correctamente el enunciado.");
+>	}
+>	printf("\n\n\t Terminando programa...\n");
+>	getch();
+>}
+>```
 
+>${\color{TealBlue}\mbox{Funcion Nro entero}}$
+>
+>```C
+>int N_entero(float num_x){
+>	int num = 0, var_aux = 0;
+>	float resto = 0;
+>	var_aux = num_x*1000;
+>	resto = var_aux%1000;
+>	if ( resto == 0 )
+>		num = num_x;
+>	else
+>		num = -1;
+>	return num;
+>}
+>```
+
+>${\color{TealBlue}\mbox{Funcion Factorial}}$
+>```C
+>// Realiza el calculo del operador factorial
+>int Fact(int arg){
+>	int f = 1, i;
+>	if (arg!=0){
+>		for(i=1;i<=arg;i++){
+>			f=f*i;
+>		}
+>	}
+>	return f;
+>}
+>```
+
+[Enlace al Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E1/P7_E1_C.c)
 
 ---
 
@@ -101,6 +166,54 @@ en Dev-C++ y una captura de la ejecución del programa.
 
 #### Codificacion en C
 
+>${\color{TealBlue}\mbox{Funcion principal}}$
+>```C
+>main(){
+>	// Declaracion de variables
+>	int Num, Suma, i, ini, fin, cond;
+>	float num_x;
+>	// Funcion enunciado
+>	Enunciado();
+>	// Peticion y alamcenamiento de datos
+>	printf("\n\n\t Ingrese el valor (entero) de N: ");
+>	scanf("%f", &num_x);
+>	// Para sabre si el valor en un entero
+>	Num = N_Entero(num_x);
+>	// Condicional de nro Z
+>	if (Num !=0) {
+>		Suma = 0;// inicalizando el acumulador
+>		// Condicion para saber su el nro es + o -
+>		if (Num > 0){
+>			ini  = 0;
+>			fin  = Num;
+>			cond = Num;
+>		}else{
+>			ini  = Num;
+>			fin  = 0;
+>			cond = -1;
+>		}
+>		// Muestra de resultados
+>		printf("\n\t Los numeros seran :");
+>		printf("\n\n\t L : { ");
+>		for(i=ini ; i<=fin ; i++){
+>			// Condicional para nro pares
+>			if(i%2!=0){
+>				Suma +=i;// Calculos necesarios
+>				printf("%d", i);
+>				if(i<cond)
+>					printf(", ");	
+>			}	
+>		}
+>		printf(" }");
+>		printf("\n\t S = %d", Suma);
+>	}else{
+>		printf("\n\n\t Valor invalido.");
+>	}
+>	printf("\n\n\t Terminando programa ...");
+>	getch();
+>}
+>```
+
 [Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c)
 
 
@@ -135,10 +248,42 @@ el código realizado en Dev-C++ y una captura de la ejecución del programa.
 >
 #### Codificacion en C
 
+>${\color{TealBlue}\mbox{Funcion principal}}$
+>
+>```C
+>// Programa principal
+>main(){
+>	// Definiendo variables
+>	int i, n = 2, error;
+>	float arg, Suma = 0, Gamma_x = 0;
+>	// Enunciado
+>	printf("\n\t *** Constante de Euler-Mascheroni ***");
+>	printf("\n\t     -----------------------------");
+>	printf("\n\n\t Sea la constante Gamma = %0.10f.\n\t calcular dicha constante mediante:", Gamma_c);
+>	printf("\n\n\t  * S = sum_(i=1 > i=n){ 1/i }\n\n\t   Gamma = lim_(n->inf) { S -ln(n) }");
+>	printf("\n\n\tMostrar el valor de n y el resultado\n\tcon 6 decimales de precision.");
+>	// Iniciando el ciclo for
+>	for(i=1 ; i<=n ; i++){
+>		// Calculos necesarios
+>		Suma += 1.0/i;
+>		Gamma_x =Suma - log(i);
+>		error = (Gamma_c-Gamma_x)*3000000;//3000000 2745238  10000000
+>		// Condicional para añadir otra repeticion a ciclo
+>		if ( error == 0 )
+>			break;
+>		else
+>			n++;
+>	}
+>	// Culculo final
+>	Gamma_x = Suma - log(i);
+>	// muestra de resultados
+>	printf("\n\n\t Los resultados son :");
+>	printf("\n\n\t\t n = %d ",i);
+>	printf("\n\t\t Gamma calc  = %0.10f",Gamma_x);
+>	printf("\n\t\t Gamma const = %0.10f",Gamma_c);
+>	printf("\n\n\t Terminando el programa...");
+>	getch();
+>}
+>```
+
 [Enlace 1er Programa](https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E3/P7_E3_C.c)
-
-
-
-
-
-
