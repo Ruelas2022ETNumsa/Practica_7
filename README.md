@@ -229,7 +229,7 @@ en Dev-C++ y una captura de la ejecución del programa.
 Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
 <p aling="center">
- <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c" target="_blank"><img src="https://i.postimg.cc/6QdCLptx/mixkit-hands-of-a-programmer-working-on-his-computer-41640-Adobe-Creative-Cloud-Express.gif" width="300"/></a>
+ <a href="https://github.com/Ruelas2022ETNumsa/Practica_7/blob/main/P7_E2/P7_E2_C.c" target="_blank"><img src="hhttps://i.postimg.cc/6QdCLptx/mixkit-hands-of-a-programmer-working-on-his-computer-41640-Adobe-Creative-Cloud-Express.gif" width="300"/></a>
 </p>
 
 
